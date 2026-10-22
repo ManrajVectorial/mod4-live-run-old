@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "deny": [
+      "Edit(/backend/corpus/**)",
+      "Write(/backend/corpus/**)"
+    ]
+  }
+}
